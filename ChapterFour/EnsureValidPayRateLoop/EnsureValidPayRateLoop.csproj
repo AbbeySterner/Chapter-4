@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9A6884FC-77F7-4461-BB91-AD594D87F117}</ProjectGuid>
+    <ProjectGuid>{141463EF-C19C-41B9-8A3C-BCD01FD6DFA7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GetVowel</RootNamespace>
-    <AssemblyName>GetVowel</AssemblyName>
+    <RootNamespace>EnsureValidPayRateLoop</RootNamespace>
+    <AssemblyName>EnsureValidPayRateLoop</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

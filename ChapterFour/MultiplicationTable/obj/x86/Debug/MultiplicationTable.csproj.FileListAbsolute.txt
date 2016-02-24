@@ -1,0 +1,4 @@
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\MultiplicationTable\obj\x86\Debug\MultiplicationTable.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\MultiplicationTable\obj\x86\Debug\MultiplicationTable.pdb

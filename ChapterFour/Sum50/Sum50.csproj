@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9A6884FC-77F7-4461-BB91-AD594D87F117}</ProjectGuid>
+    <ProjectGuid>{F4B408E4-6E5C-4950-98F5-BDD4ED66FDE9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GetVowel</RootNamespace>
-    <AssemblyName>GetVowel</AssemblyName>
+    <RootNamespace>Sum50</RootNamespace>
+    <AssemblyName>Sum50</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

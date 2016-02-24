@@ -1,0 +1,4 @@
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\EnsureValidPayRateLoop\bin\Debug\EnsureValidPayRateLoop.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\EnsureValidPayRateLoop\bin\Debug\EnsureValidPayRateLoop.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\EnsureValidPayRateLoop\obj\x86\Debug\EnsureValidPayRateLoop.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter-4\ChapterFour\EnsureValidPayRateLoop\obj\x86\Debug\EnsureValidPayRateLoop.pdb
